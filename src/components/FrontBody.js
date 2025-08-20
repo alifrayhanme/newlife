@@ -16,7 +16,7 @@ export default function FrontBody({ areas, selected, toggleSelect }) {
     <div className="text-center relative w-full max-w-48 sm:max-w-md aspect-[3/5] ml-auto xs:mx-auto">
       {/* Body image */}
       <Image
-        src="/OBJECTS_1.webp"
+        src="/frontbody.webp"
         alt="front side"
         fill
         className="object-contain"

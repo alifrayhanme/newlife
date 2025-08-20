@@ -16,7 +16,7 @@ export default function BackBody({ areas, selected, toggleSelect }) {
     <div className="text-center relative w-full max-w-48 sm:max-w-md aspect-[3/5] mr-auto xs:mx-auto">
       {/* Body image */}
       <Image
-        src="/OBJECTS.webp"
+        src="/backbody.webp"
         alt="back side"
         fill
         className="object-contain"
